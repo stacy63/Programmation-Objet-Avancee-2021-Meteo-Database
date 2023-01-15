@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+.classpath
+.project
+.settings/
+/target/
+meteo.db
